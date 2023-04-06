@@ -8,4 +8,12 @@
 .square {
   width: 200px;
   height: 200px;
+  font-size: 55px;
+}
+.board_row{
+    display: flex;
+}
+
+.game {
+  display: flex;
 }
