@@ -13,3 +13,7 @@
 .board_row{
     display: flex;
 }
+
+.game {
+  display: flex;
+}
